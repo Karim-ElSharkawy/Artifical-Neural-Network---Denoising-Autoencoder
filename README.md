@@ -1,1 +1,1 @@
-# Artifical-Neural-Network - Denoising-Autoencoder
+# Artificial-Neural-Network - Denoising-Autoencoder
